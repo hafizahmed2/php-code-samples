@@ -1,0 +1,1 @@
+I'm using Laravel sail for this app. You can use .env.testing variables for .env. The app is running on port 8001 and you need to stop mysql on local system because mysql use same port 3306.
